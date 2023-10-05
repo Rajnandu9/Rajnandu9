@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rajnandu9
+- 👋 Hi, I’m @Rajnandini Deshmukh
 - 👀 I’m interested in creating holistic Tableau dashbaords for business analysis
-- 🌱 I’m currently learning Google Courses that includes strategies of business, data visualization, R programming
+- 🌱 I’m currently learning Google Courses that includes strategies of business, data visualization, data analytics.
 - 💞️ I’m looking to collaborate on Tableau and SQL programs
 - 📫 Reach me via rajnandinid@gmail.com
 
